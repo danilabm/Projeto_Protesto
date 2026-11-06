@@ -2,4 +2,4 @@
 
 Projeto para automatizar as pesquisas de CNPJ junto à Receita.
 
-O código está no repositório [automacao_cnpj_projeto_final](https://github.com/danilabm/automacao_cnpj_projeto_final).
+A versão completa consulta CNPJs em lote nas APIs ReceitaWS e CNPJ.ws e gera o resultado em Excel. O código é mantido em repositório privado porque trabalha com dados fiscais da Prefeitura.
